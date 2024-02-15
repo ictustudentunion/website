@@ -3,24 +3,41 @@
 ![Image](https://github.com/orgs/ictustudentunion/projects/1/assets/120027323/38965a1e-a462-45c9-875f-7a2e12d73556)
 
 
-The project aims to design, develop, and implement a dynamic SUG website for the Student Union Government. The site's mission is to centralize information related to campus events, activities, and news, providing an accessible and interactive platform for the entire student community.
+# Student Union Government Website Project
 
-The main features included in the site will be as follows:
-- [X] Event Calendar: An interactive calendar displaying all upcoming events on campus, allowing students to plan their participation.
-- [X] News and Announcements: A dedicated section for news and important announcements, ensuring quick and transparent communication.
-- [X] Club and Activities Pages: Dedicated pages for each club and activity group, showcasing their events, meetings, and specific activities.
-- [X] Event Registration: The ability for students to register online for events, facilitating participant management.
-- [X] Image Gallery: A visual feature to share photos and videos of past events, creating a visual archive.
-- [X] Discussion Forum: An interactive space where students can discuss, exchange ideas, and participate in discussions on various campus-related topics.
-- [X] Social Media Integration: Integration of social media feeds to allow students to stay informed and engaged through these popular platforms.
+This project aims to design, develop, and implement a dynamic website for the Student Union Government (SUG) of ICT University. The main goal of the site is to centralize information related to campus events, activities, and news, providing an accessible and interactive platform for the entire student community.
 
-The overall objective is to create a user-friendly web platform that enhances the student experience, encourages active participation, and strengthens the sense of community within the institution. This project aims to meet the specific needs of students by providing easy access to information and fostering transparent and effective communication.
+## Objectives
 
-## USER STORY:
-- A title
-- The priority level
-- User story estimation
-- The format “As”, “I wish”, “in order to”
-- The acceptance criteria that I explain to you further
+- Create a user-friendly platform that enhances the student experience.
+- Encourage active student participation in campus events and activities.
+- Strengthen the sense of community within the institution.
 
-### As a 'user or role type', I want 'a goal' for that 'a reason'.
+## Key Features
+
+1. **Event Calendar:** Interactive display of all upcoming events on campus, allowing students to plan their participation.
+2. **News and Announcements:** Dedicated section for news and important announcements, ensuring quick and transparent communication.
+3. **Club and Activities Pages:** Pages dedicated to each club and activity group, showcasing their events, meetings, and specific activities.
+4. **Event Registration:** Ability for students to register online for events, facilitating participant management.
+5. **Image Gallery:** Visual feature to share photos and videos of past events, creating a visual archive.
+6. **Discussion Forum:** Interactive space where students can discuss, exchange ideas, and participate in discussions on various campus-related topics.
+7. **Social Media Integration:** Integration of social media feeds to allow students to stay informed and engaged through these popular platforms.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Contribute
+
+We welcome contributions from all members of the student community and its partners. If you would like to contribute to improving the SUG site, please follow these steps:
+1. Fork the project
+2. Create a new branch (`git checkout -b feature-improvements`)
+3. Make your changes and commit (`git commit -am 'Adding new features'`)
+4. Push to the branch (`git push origin feature-improvements`)
+5. Create a new Pull Request
+
+## License
+
+This project is licensed under the .
